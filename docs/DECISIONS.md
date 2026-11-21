@@ -68,6 +68,10 @@ This file records decisions and constraints established during product planning.
 **Status:** Accepted  
 **Decision:** Repository and documentation must clearly state that the project is in planning/WIP until implementation and release gates are complete. Planned features must not be described as implemented.
 
+## D-015 — Project license
+**Status:** Accepted
+**Decision:** Use Apache License 2.0 (SPDX: Apache-2.0) for the project. The license permits reuse, modification, redistribution, and commercial use subject to its conditions, and includes an express contributor patent grant. Third-party dependencies retain their own licenses and notices. See LICENSE.
+
 ## Open decisions
 
 - Minimum supported Windows versions and Linux distributions.
