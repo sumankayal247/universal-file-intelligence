@@ -130,7 +130,11 @@ The project should be implemented in phases with production-quality acceptance c
 - Test Windows and Linux independently.
 - Keep the README honest about WIP status.
 
-## 10. Current project state
+## 10. License decision
+
+The repository uses Apache License 2.0 (SPDX: Apache-2.0). The choice supports permissive reuse and redistribution, including commercial use, while providing an express patent grant from contributors subject to the license terms. Third-party dependencies and optional integrations must retain their own licenses and notices. The authoritative license text is in the root LICENSE file.
+
+## 11. Current project state
 
 At the time this document was created, the GitHub repository was empty. The initial repository setup adds documentation and a license only. It does not create an application implementation.
 
